@@ -23,7 +23,7 @@
 ![Unity Multiplayer](https://img.shields.io/badge/Unity%20Multiplayer-%2314354C.svg?style=for-the-badge&logo=Unity&logoColor=white) 
 ![Photon PUN](https://img.shields.io/badge/Photon_PUN-%2314354C.svg?style=for-the-badge&logo=Photon&logoColor=white) 
 ![Mirror Networking](https://img.shields.io/badge/Mirror_Networking-%2314354C.svg?style=for-the-badge&logo=del.icio.us&logoColor=white) 
-![P2P Connection](https://img.shields.io/badge/P2P_Connection-%2314354C.svg?style=for-the-badge&logo=Unity&logoColor=white) 
+![P2P Connection](https://img.shields.io/badge/P2P_Connection-%2314354C.svg?style=for-the-badge&logo=Inertia&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%2314354C.svg?style=for-the-badge&logo=Firebase&logoColor=white) 
 ![Unity Ads](https://img.shields.io/badge/Unity_Ads-%2314354C.svg?style=for-the-badge&logo=Unity&logoColor=white) 
 ![AdMob](https://img.shields.io/badge/AdMob-%2314354C.svg?style=for-the-badge&logo=Google+AdMob&logoColor=white) 
