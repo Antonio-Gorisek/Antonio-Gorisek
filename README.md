@@ -14,19 +14,19 @@
 ### 🛠 &nbsp;Unity Tech Stack
 
 ![Unity](https://img.shields.io/badge/Unity-%2314354C.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-%2314354C.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-%2314354C.svg?style=for-the-badge&logo=data:&logoColor=white) 
 ![Android](https://img.shields.io/badge/Android-%2314354C.svg?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%2314354C.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%2314354C.svg?style=for-the-badge&logo=Co-op&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-%2314354C.svg?style=for-the-badge&logo=WebGL&logoColor=white) 
 ![3D Games](https://img.shields.io/badge/3D%20Games-%2314354C.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![2D Games](https://img.shields.io/badge/2D%20Games-%2314354C.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![Unity Multiplayer](https://img.shields.io/badge/Unity%20Multiplayer-%2314354C.svg?style=for-the-badge&logo=Unity&logoColor=white) 
 ![Photon PUN](https://img.shields.io/badge/Photon_PUN-%2314354C.svg?style=for-the-badge&logo=Photon&logoColor=white) 
-![Mirror Networking](https://img.shields.io/badge/Mirror_Networking-%2314354C.svg?style=for-the-badge&logo=Mirror&logoColor=white) 
+![Mirror Networking](https://img.shields.io/badge/Mirror_Networking-%2314354C.svg?style=for-the-badge&logo=del.icio.us&logoColor=white) 
 ![P2P Connection](https://img.shields.io/badge/P2P_Connection-%2314354C.svg?style=for-the-badge&logo=Unity&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%2314354C.svg?style=for-the-badge&logo=Firebase&logoColor=white) 
 ![Unity Ads](https://img.shields.io/badge/Unity_Ads-%2314354C.svg?style=for-the-badge&logo=Unity&logoColor=white) 
-![AdMob](https://img.shields.io/badge/AdMob-%2314354C.svg?style=for-the-badge&logo=AdMob&logoColor=white) 
+![AdMob](https://img.shields.io/badge/AdMob-%2314354C.svg?style=for-the-badge&logo=Google+AdMob&logoColor=white) 
 ![Facebook SDK](https://img.shields.io/badge/Facebook_SDK-%2314354C.svg?style=for-the-badge&logo=Facebook&logoColor=white) 
 ![Google SDK](https://img.shields.io/badge/Google_SDK-%2314354C.svg?style=for-the-badge&logo=Google&logoColor=white) 
 ![Google Play SDK](https://img.shields.io/badge/Google_Play_SDK-%2314354C.svg?style=for-the-badge&logo=Google&logoColor=white) 
@@ -43,8 +43,8 @@
 
 <div align="left">
   <h3>🤝🏻 &nbsp;Contact me</h3>
-  <a href="https://antonio-gorisek.web.app/"><img src="https://img.shields.io/badge/Portfolio-%2314354C.svg?style=for-the-badge&logo=GoogleChrome&logoColor=Blue"/></a>
-  <a href="https://discordapp.com/users/252827534943584256"><img src="https://img.shields.io/badge/Discord-%2314354C.svg?style=for-the-badge&logo=Discord&logoColor=Blue"/></a>
-  <a href="mailto:tonigorisek1@gmail.com"><img src="https://img.shields.io/badge/Gmail-%2314354C.svg?style=for-the-badge&logo=Gmail&logoColor=Blue"/></a>
-  <a href="https://hr.linkedin.com/in/antonio-gorisek"><img src="https://img.shields.io/badge/LinkedIn-%2314354C.svg?style=for-the-badge&logo=LinkedIn&logoColor=Blue"/></a>
+  <a href="https://antonio-gorisek.web.app/"><img src="https://img.shields.io/badge/Portfolio-%2314354C.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/252827534943584256"><img src="https://img.shields.io/badge/Discord-%2314354C.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+  <a href="mailto:tonigorisek1@gmail.com"><img src="https://img.shields.io/badge/Gmail-%2314354C.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://hr.linkedin.com/in/antonio-gorisek"><img src="https://img.shields.io/badge/LinkedIn-%2314354C.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </div>
