@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://i.imgur.com/udJkdcD.jpeg" align="center"/>
+<img alt="Night Coding" src="https://i.imgur.com/T8eAcaO.png" align="center"/>
 
 ### Hi, I'm Antonio Gorišek <img src="https://i.imgur.com/np4boNP.gif" width="35">
 <img src="https://i.imgur.com/QOHY6jL.gif">
