@@ -9,7 +9,7 @@
 🎓&nbsp;With 10+ years of experience in Unity, I specialize in 2D/3D games and multiplayer for Windows, Android, and WebGL.<br>
 🌱&nbsp;I'm always learning about new technologies, game mechanics, networking, performance optimization, and much more.<br>
 💬&nbsp;Feel free to reach out to me for consulting, backend development, or help with Unity projects and systems architecture.<br>
-✉️&nbsp;You can contact me via email at tonigorisek1@gmail.com or through other platforms listed below!<br>
+✉️&nbsp;You can contact me via email at info@antonio-gorisek.com or through other platforms listed below!<br>
 
 ### 🛠 &nbsp;Unity Tech Stack
 
