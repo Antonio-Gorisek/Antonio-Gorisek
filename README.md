@@ -45,6 +45,6 @@
   <h3>🤝🏻 &nbsp;Contact Me</h3>
   <a href="https://antonio-gorisek.web.app/"><img src="https://img.shields.io/badge/Portfolio-%2314354C.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
   <a href="https://discordapp.com/users/252827534943584256"><img src="https://img.shields.io/badge/Discord-%2314354C.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
-  <a href="mailto:tonigorisek1@gmail.com"><img src="https://img.shields.io/badge/Gmail-%2314354C.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:info@antonio-gorisek.com"><img src="https://img.shields.io/badge/Gmail-%2314354C.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://hr.linkedin.com/in/antonio-gorisek"><img src="https://img.shields.io/badge/LinkedIn-%2314354C.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </div>
