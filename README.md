@@ -9,7 +9,7 @@
 🎓&nbsp;With 10+ years of experience in Unity, I specialize in 2D/3D games and multiplayer for Windows, Android, and WebGL.<br>
 🌱&nbsp;I'm always learning about new technologies, game mechanics, networking, performance optimization, and much more.<br>
 💬&nbsp;Feel free to reach out to me for consulting, backend development, or help with Unity projects and systems architecture.<br>
-✉️&nbsp;You can contact me via email at info@antonio-gorisek.com or through other platforms listed below!<br>
+✉️&nbsp;You can contact me via email at info@antonio.hr or through other platforms listed below!<br>
 
 ### 🛠 &nbsp;Unity Tech Stack
 
@@ -45,6 +45,6 @@
   <h3>🤝🏻 &nbsp;Contact Me</h3>
   <a href="https://antonio-gorisek.web.app/"><img src="https://img.shields.io/badge/Portfolio-%2314354C.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white"/></a>
   <a href="https://discordapp.com/users/252827534943584256"><img src="https://img.shields.io/badge/Discord-%2314354C.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
-  <a href="mailto:info@antonio-gorisek.com"><img src="https://img.shields.io/badge/Gmail-%2314354C.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:info@antonio.hr"><img src="https://img.shields.io/badge/Gmail-%2314354C.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://hr.linkedin.com/in/antonio-gorisek"><img src="https://img.shields.io/badge/LinkedIn-%2314354C.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </div>
